@@ -42,6 +42,13 @@ STOKMATİK LITE
 Amaç:
 Küçük işletmeler için kolay ve güvenli stok ve son kullanma tarihi takibi sağlamak.
 
+Programı kullanırken en çok işinizi kolaylaştıran şey barkod okuyucu oluyor. Klavyeyle yazmak yerine okutmak hem hızlandırıyor hem de hatayı azaltıyor.
+Ben test ederken şu modellerden kullanıyorum, sorunsuz çalışıyor:
+
+👉 Önerdiğim barkod okuyucu:
+https://amzn.to/4a8aDem
+
+
 ENGLISH
 # Stokmatik Lite
 
