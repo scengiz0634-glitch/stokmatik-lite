@@ -46,6 +46,7 @@ Küçük işletmeler için kolay ve güvenli stok ve son kullanma tarihi takibi 
 
 Windows, yeni ve imzasız uygulamalar için şu uyarıyı gösterebilir:
 “Bilinmeyen yayımlayıcı”
+
 Çalıştırmak için:
 “Daha fazla bilgi” → “Yine de çalıştır” demeniz yeterlidir.
 
