@@ -42,6 +42,13 @@ STOKMATİK LITE
 Amaç:
 Küçük işletmeler için kolay ve güvenli stok ve son kullanma tarihi takibi sağlamak.
 
+🔐 Güvenlik Hakkında Bilgilendirme
+
+Windows, yeni ve imzasız uygulamalar için şu uyarıyı gösterebilir:
+“Bilinmeyen yayımlayıcı”
+Çalıştırmak için:
+“Daha fazla bilgi” → “Yine de çalıştır” demeniz yeterlidir.
+
 Programı kullanırken en çok işinizi kolaylaştıran şey barkod okuyucu oluyor. Klavyeyle yazmak yerine okutmak hem hızlandırıyor hem de hatayı azaltıyor.
 Ben test ederken şu modellerden kullanıyorum, sorunsuz çalışıyor:
 
